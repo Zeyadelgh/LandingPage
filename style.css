@@ -1,0 +1,29 @@
+.color  {
+    background-color: #1F2937;    
+ }
+ footer {
+    
+}
+
+header {
+    background-color: #1F2937;    
+}
+
+header .divOne {
+    display: flex;
+    flex-direction: row;
+}
+
+header .divTwo {
+font-size: 48px;
+font-weight: bolder;
+}
+
+header div {
+    color: #F9FAF8;
+}
+
+header p {
+    font-size: 18px;
+}
+
